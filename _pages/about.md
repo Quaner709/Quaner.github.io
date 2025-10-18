@@ -15,6 +15,7 @@ Welcome to Quaner's Personal Web!
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WEB ABOUT</title>
   <link rel="stylesheet" href="https://stackedit.cn/style.css" />
 </head>
 
@@ -28,7 +29,7 @@ Welcome to Quaner's Personal Web!
 请如图打开翻译功能<br>
 随后，您便可以进入：</p>
 <ul>
-<li>Quaner WIKI ： <a href="https://github.com/Quaner709/Quaner.github.io.wiki.git">https://github.com/Quaner709/Quaner.github.io.wiki.git</a></li>
+<li>Quaner WIKI ：<a href="https://github.com/Quaner709/Quaner.github.io/wiki">https://github.com/Quaner709/Quaner.github.io/wiki</a></li>
 </ul>
 <p>希望你在探索WIKI的过程中有所收获！</p>
 <hr>
@@ -51,7 +52,7 @@ to make it more useful for every visitor.</p>
 <p>And now, u can explore:</p>
 <ul>
 <li>Quaner’s WIKI<br>
-<a href="https://github.com/Quaner709/Quaner.github.io.wiki.git">https://github.com/Quaner709/Quaner.github.io.wiki.git</a></li>
+<a href="https://github.com/Quaner709/Quaner.github.io/wiki">https://github.com/Quaner709/Quaner.github.io/wiki</a></li>
 </ul>
 <p>May you get something useful or inspiring as you explore my WIKI!</p>
 <hr>
@@ -70,5 +71,3 @@ The web might be online in 2026+ , Just u wait again.(awa).</p>
 </ol>
 </div>
 </body>
-
-</html>
