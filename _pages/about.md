@@ -15,7 +15,6 @@ Welcome to Quaner's Personal Web!
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WEB ABOUT</title>
   <link rel="stylesheet" href="https://stackedit.cn/style.css" />
 </head>
 
@@ -30,7 +29,7 @@ Welcome to Quaner's Personal Web!
 随后，您便可以进入：</p>
 <ul>
 <li>Quaner WIKI ：<a href="https://github.com/Quaner709/Quaner.github.io/wiki">https://github.com/Quaner709/Quaner.github.io/wiki</a></li>
-<li>Yuufun Group’s Blog: <a href="[https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki](https://github.com/YuufunGroup/YuufunGroup.github.io/wiki)</a></li>
+<li>榆欢小组博客：<a href="https://github.com/Yuufun-Group/YuufunGroup.github.io/wiki/%E6%A6%86%E6%AC%A2%E5%B0%8F%E7%BB%84%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5">Home · Yuufun-Group/YuufunGroup.github.io Wiki</a></li>
 </ul>
 <p>希望你在探索WIKI的过程中有所收获！</p>
 <hr>
@@ -54,7 +53,7 @@ to make it more useful for every visitor.</p>
 <ul>
 <li>Quaner’s WIKI<br>
 <a href="https://github.com/Quaner709/Quaner.github.io/wiki">https://github.com/Quaner709/Quaner.github.io/wiki</a></li>
-<li>Yuufun Group’s Blog: <a href="https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki</a></li>
+<li>Yuufun Group's Blog：<a href="https://github.com/Yuufun-Group/YuufunGroup.github.io/wiki/%E6%A6%86%E6%AC%A2%E5%B0%8F%E7%BB%84%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5">Home · Yuufun-Group/YuufunGroup.github.io Wiki</a></li>
 </ul>
 <p>May you get something useful or inspiring as you explore my WIKI!</p>
 <hr>
@@ -62,7 +61,7 @@ to make it more useful for every visitor.</p>
 <ol>
 <li>
 <p><strong>榆欢小组网站 Yuufun Group Web</strong> （中文/英文网站 Both Chinese and English）<br>
-Yuufun Group, is the Group what i lead. It was bulit up by me and the others 3 persons who my friends/classmate. To build Yuufun Group Web is in order to show the practical achievements and observations what we made and we saw. To posts on the Internet, I think it will be bring u some new ideas. Also u can learn some Chinese Culture like Cantonese Opera or somethings else. </p>  <li>Yuufun Group’s Blog: <a href="[https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki](https://github.com/YuufunGroup/YuufunGroup.github.io/wiki)</a></li>
+Yuufun Group, is the Group what i lead. It was bulit up by me and the others 3 persons who my friends/classmate. To build Yuufun Group Web is in order to show the practical achievements and observations what we made and we saw. To posts on the Internet, I think it will be bring u some new ideas. Also u can learn some Chinese Culture like Cantonese Opera or somethings else.<li>Yuufun Group's Blog：<a href="https://github.com/Yuufun-Group/YuufunGroup.github.io/wiki/%E6%A6%86%E6%AC%A2%E5%B0%8F%E7%BB%84%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5">Home · Yuufun-Group/YuufunGroup.github.io Wiki</a></li> </p>
 </li>
 <li>
 <p><strong>直南山大湾区城市网站 Chichuang-Nannun-Shanquan Greater Bay City Web</strong>（中文/英文网站 Both Chinese and English）<br>
