@@ -62,8 +62,7 @@ to make it more useful for every visitor.</p>
 <ol>
 <li>
 <p><strong>榆欢小组网站 Yuufun Group Web</strong> （中文/英文网站 Both Chinese and English）<br>
-<li>Yuufun Group’s Blog: <a href="https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki</a></li>
-Yuufun Group, is the Group what i lead. It was bulit up by me and the others 3 persons who my friends/classmate. To build Yuufun Group Web is in order to show the practical achievements and observations what we made and we saw. To posts on the Internet, I think it will be bring u some new ideas. Also u can learn some Chinese Culture like Cantonese Opera or somethings else. </p>
+Yuufun Group, is the Group what i lead. It was bulit up by me and the others 3 persons who my friends/classmate. To build Yuufun Group Web is in order to show the practical achievements and observations what we made and we saw. To posts on the Internet, I think it will be bring u some new ideas. Also u can learn some Chinese Culture like Cantonese Opera or somethings else. </p>  <li>Yuufun Group’s Blog: <a href="https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki</a></li>
 </li>
 <li>
 <p><strong>直南山大湾区城市网站 Chichuang-Nannun-Shanquan Greater Bay City Web</strong>（中文/英文网站 Both Chinese and English）<br>
