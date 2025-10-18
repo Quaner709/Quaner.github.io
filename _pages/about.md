@@ -30,6 +30,7 @@ Welcome to Quaner's Personal Web!
 随后，您便可以进入：</p>
 <ul>
 <li>Quaner WIKI ：<a href="https://github.com/Quaner709/Quaner.github.io/wiki">https://github.com/Quaner709/Quaner.github.io/wiki</a></li>
+<li>Yuufun Group’s Blog: <a href="https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki</a></li>
 </ul>
 <p>希望你在探索WIKI的过程中有所收获！</p>
 <hr>
@@ -53,6 +54,7 @@ to make it more useful for every visitor.</p>
 <ul>
 <li>Quaner’s WIKI<br>
 <a href="https://github.com/Quaner709/Quaner.github.io/wiki">https://github.com/Quaner709/Quaner.github.io/wiki</a></li>
+<li>Yuufun Group’s Blog: <a href="https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki</a></li>
 </ul>
 <p>May you get something useful or inspiring as you explore my WIKI!</p>
 <hr>
@@ -60,7 +62,8 @@ to make it more useful for every visitor.</p>
 <ol>
 <li>
 <p><strong>榆欢小组网站 Yuufun Group Web</strong> （中文/英文网站 Both Chinese and English）<br>
-Yuufun Group, is the Group what i lead. It was bulit up by me and the others 3 persons who my friends/classmate. To build Yuufun Group Web is in order to show the practical achievements and observations what we made and we saw. To posts on the Internet, I think it will be bring u some new ideas. Also u can learn some Chinese Culture like Cantonese Opera or somethings else. It might be online soon, Just u wait (awa).</p>
+<li>Yuufun Group’s Blog: <a href="https://github.com/YuufunGroup/YuufunGroup.github.io/wiki">https://github.com/YuufunGroup/YuufunGroup.github.io/wiki</a></li>
+Yuufun Group, is the Group what i lead. It was bulit up by me and the others 3 persons who my friends/classmate. To build Yuufun Group Web is in order to show the practical achievements and observations what we made and we saw. To posts on the Internet, I think it will be bring u some new ideas. Also u can learn some Chinese Culture like Cantonese Opera or somethings else. </p>
 </li>
 <li>
 <p><strong>直南山大湾区城市网站 Chichuang-Nannun-Shanquan Greater Bay City Web</strong>（中文/英文网站 Both Chinese and English）<br>
