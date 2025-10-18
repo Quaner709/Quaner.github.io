@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "cn-CN"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Quaner Personal Web"
 title_separator          : "-"
@@ -45,7 +45,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bilibili       : # Quaner06
+  bilibili.com       : # Quaner06
  
 
 # Publication Category - The following the list of publication categories and their headings
