@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
 ﻿
-
+  avatar           : "profile.png"
   name             : "Quaner Personal Web"
   pronouns         : # example: "she/her"  
   bio              : ""
