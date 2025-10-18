@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
+# 欢迎 Welcome
+**欢迎来到Quaner个人网站**
 Welcome to Quaner's Personal Web!
