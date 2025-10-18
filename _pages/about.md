@@ -10,7 +10,6 @@ redirect_from:
 **欢迎来到Quaner个人网站**
 Welcome to Quaner's Personal Web!
 
-<!DOCTYPE html>
 <html>
 
 <head>
